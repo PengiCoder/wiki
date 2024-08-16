@@ -1,0 +1,2 @@
+# wiki
+A simple wiki
